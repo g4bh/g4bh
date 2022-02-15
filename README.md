@@ -2,16 +2,16 @@
 <div align="left">
    <div>
     <img align="right"height="170" width="170"src="https://user-images.githubusercontent.com/44330034/154061980-1e14bb39-690d-45ac-9af3-f18094d17299.gif">
-   </div>
+   </div></br>
   <h1>oii, sou a Gabu! 💖</h1></br>
-  <h2>🍓 Estudando um pouco de Git 🍓</h2></br>
+  <h2>🍓 Estudando um pouco de Git 🍓</h2></br></br>
 </div>
 
 
 <div align="center">
   <a href="https://github.com/g4bh">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=g4bh&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4bh&layout=compact&langs_count=7&theme=jolly"/
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=g4bh&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4bh&layout=compact&langs_count=7&theme=jolly"/
 </div>
   
  
