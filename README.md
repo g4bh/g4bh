@@ -4,7 +4,7 @@
     <img align="right"height="170" width="170"src="https://user-images.githubusercontent.com/44330034/154061980-1e14bb39-690d-45ac-9af3-f18094d17299.gif">
    </div></br>
   <h1>oii, sou a Gabu! 💖</h1></br>
-  <h2>🍓 Estudando um pouco de Git 🍓</h2></br></br>
+  <h2>🍓 Estudando um pouco de Git 🍓</h2></br>
 </div>
 
 
