@@ -2,7 +2,6 @@
 <div align="left">
    <div>
     <img align="right"height="170" width="170"src="https://user-images.githubusercontent.com/44330034/154061980-1e14bb39-690d-45ac-9af3-f18094d17299.gif">
-    <img align="right"height="170" width="170" src="https://toppng.com/uploads/preview/transparent-flowers-11552505126xqunlrzjj5.png"
    </div>
   <h1>Oii, sou a Gabu! 💖</h1></br>
   <h2>🍓 Bem-vindo(a)! 🍓</h2></br></br>
