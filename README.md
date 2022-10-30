@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/g4bh">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=g4bh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=EFBDC3&icon_color=EF5775&border_color=F8B5C2&border_radius=12"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4bh&layout=compact&theme=aura_dark&title_color=EFBDC3&icon_color=EF5775&border_color=F8B5C2&border_radius=8"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=g4bh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=EFBDC3&icon_color=EF5775&border_color=F8B5C2&border_radius=12"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4bh&layout=compact&theme=aura_dark&title_color=EFBDC3&icon_color=EF5775&border_color=F8B5C2&border_radius=8"/>
  </div> 
    
   <div align="center">
