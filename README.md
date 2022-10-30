@@ -11,6 +11,7 @@
 <div align="center">
   <a href="https://github.com/g4bh">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4bh&layout=compact&theme=aura_dark"/>
+  <img align="center" height="50" width="50"src="https://user-images.githubusercontent.com/44330034/154101013-536a0bdf-4c71-406d-b9e6-26fb18f2da16.png">
  </div>  
  
   
