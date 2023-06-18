@@ -4,7 +4,7 @@
     <img align="right"height="170" width="170"src="https://user-images.githubusercontent.com/44330034/154061980-1e14bb39-690d-45ac-9af3-f18094d17299.gif">
    </div>
   <h2>Oie, sou a Gabu! 💖</h2></br>
-  <h3> 🍓 Graduando e programando projetos aleatórios 🍓</h3></br></br>
+  <h3> 🍓 Graduando e programando projetinhos 🍓</h3></br></br>
 </div>
 
 
@@ -26,9 +26,4 @@
   
 ## 
   
-  <div> 
-    <img heigth="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
-    <img heigth="100"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
-    <img heigth="100"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
-  </div>
   
