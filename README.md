@@ -20,4 +20,11 @@
 </div>      
   
   ##
-  
+
+<div>
+  <a href="https://gitlab.com/g4bh"><img src="https://img.shields.io/badge/GitLab-g4bh?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/gabriella-sbarbosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </div>
+    
+
+
