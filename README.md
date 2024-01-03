@@ -1,8 +1,8 @@
 
 <div align="left">
   <h2>Oie, sou a Gabu! 💛</h2>
-  <h4> Sou entusiasta em desenvolvimento web, imersa no estudo de Java, C# e ASP.NET. Curiosa por HTML, CSS e JavaScript; </h4> 
-     <h4>Estou em constante aprendizado, ansiosa para dominar novas habilidades e contribuir para projetos desafiadores </h4></br>
+  <h4> Sou entusiasta em desenvolvimento web, atualmente estudo Java, C# e ASP.NET. Curiosa por HTML, CSS e Angular; </h4> 
+     <h4>Estou em constante aprendizado, ansiosa para dominar novas habilidades e contribuir para projetinhos. ✨ </h4></br>
 </div>
 
 <div>
